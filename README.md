@@ -1,0 +1,2 @@
+# OffensiveShellScripting
+Shell scripting notes.
